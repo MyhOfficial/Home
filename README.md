@@ -5,6 +5,7 @@
 ### 个人主页
 
 >这是我的个人主页
+>naufseasadistou@mail.com
 
 >衍生自 [Vno](https://github.com/onevcat/vno-jekyll) Jekyll 主题
 
